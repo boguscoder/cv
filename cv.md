@@ -9,54 +9,58 @@
 Education
 ---------
 2008 – 2010
-:   **MSc, Computer Science**; National Aviation University (Ukraine, Kyiv)
+:   **MSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
 
 2004 – 2008
-:   **BSc, Computer Science**; National Aviation University (Ukraine, Kyiv)
+:   **BSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
 
 Experience
 ----------
 **Senior SDE @ Microsoft** (Dec 2012 - Now)
 
-Enjoing a chance to be a part of well-known Software Leader in different locations and roles:
+Enjoying a chance to be a part of well-known Software Leader in different locations and roles:
+
+San Jose, CA, US:
 
 * Turning Microsoft Teams client into embeddable SDK. Keywords: TypeScript, Angular, Webpack, Grunt
 
-* Evolution and maintenance of Skype for Bussiness SDK. Keywords: C++11 with Java/ObjC/C# projections, REST, HTTP, OAuth
+* Evolution and maintenance of Skype for Business SDK. Keywords: C++11 with Java/ObjC/C# projections, REST, HTTP, OAuth
 
-* Rewrite of 'Lync for Android' into 'Skype for Bussiness for Android'. Keywords: Java, Android SDK/NDK, JNI, MVVM
+Stockholm, Sweden:
+
+* Rewrite of 'Lync for Android' into 'Skype for Business for Android'. Keywords: Java, Android SDK/NDK, JNI, MVVM
 
 * Media stack for Skype for Android. Keywords: C++, Java, JNI, Stagefright, MediaCodec API
 
 * Video stack for Skype for Windows Phone. Keywords: C++/C#, Windows Phone SDK
 
-**Senior SDE @ EPAM Systems** (Apr 2010 – Nov 2012)
+**Senior SDE @ EPAM Systems** (Apr 2010 – Nov 2012, Kyiv, Ukraine)
 
 Outstaffed to Barclays Capital
 
 * Front-end real-time electronic trading system for Fixed Income desk. Keywords: C++, T/SQL, Python, ION MarketView
 
-**C++ Developer @ RQL UKraine** (May 2009 – Apr 2010)
+**C++ Developer @ RQL Ukraine** (May 2009 – Apr 2010, Kyiv, Ukraine)
 
-Participated in outsourced projects
+Participated in several outsourced projects
 
-*  Development of multichannel sound collecting software with ASIO. Keywords: Java/C++/ASIO 
+*  Development of multichannel sound collecting software with ASIO. Keywords: Java, C++, ASIO 
 *  Application targeting popular (at the time) mobile platforms. Keywords: Symbian SDK, Windows Mobile 6 SDK, QT
 
 Technical Experience
 --------------------
 
-:   **C++:** <Fill>
-
-:   **C#:** <Fill>
-
-:   **Java:** <Fill>
-
-:  **Typescript:** <Fill>
+:  **C++:** <Fill>
 
 :  **React/ReactNative:** <Fill>
 
-:   Basic knowledge of **F#**, **Scala**
+:  **C#:** <Fill>
+
+:  **Java:** <Fill>
+
+:  **Typescript:** <Fill>
+
+:  Basic knowledge of **F#**, **Scala**
 
 Misc. 
 ----------------------------------------
