@@ -1,5 +1,6 @@
-Oleg Bogdanov
-============
+# Oleg Bogdanov
+
+<boguscoder@gmail.com> +1 (650) 575 97 39
 
 ----
 >  Strong C++ dev with a lot of curiosity about .Net Core, TypeScript, async programming and Azure
@@ -45,14 +46,15 @@ Participated in outsourced projects
 Technical Experience
 --------------------
 
-Programming Languages
-:   **C++:** 
+:   **C++:** <Fill>
 
-:   **C#:** 
+:   **C#:** <Fill>
 
-:   **Java:** We both know this one's pushing it.
+:   **Java:** <Fill>
 
-:  **Typescript:**
+:  **Typescript:** <Fill>
+
+:  **React/ReactNative:** <Fill>
 
 :   Basic knowledge of **F#**, **Scala**
 
@@ -66,10 +68,10 @@ Misc.
 
 * Courses:
 
-  * Copy from LinkedIn
-
-----------------------------------------
-
-> <boguscoder@gmail.com> • +1 (650) 575 97 39
-
-> San Jose, CA
+  * C# and the CLR with Walt Ritschner [by Wintellect]
+  * Microsoft .NET threading in C# with Jeffrey Richter [by Wintellect]
+  * Exploring Windows Azure with Paul Mehner [by Wintellect]
+  * Software Security [University of Maryland via Coursera]
+  * Image and video processing: From Mars to Hollywood with a stop at the hospital [Duke University via Coursera]
+  * Cisco CCNA I
+  * Certified Scrum Product Owner with Timothy D. Korson
