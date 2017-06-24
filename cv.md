@@ -1,18 +1,18 @@
 # Oleg Bogdanov
 
-<boguscoder@gmail.com> +1 (650) 575 97 39
+<boguscoder@gmail.com> / +1 (650) 575 9739 / San Jose, CA
 
 ----
->  Strong C++ dev with a lot of curiosity about .Net Core, TypeScript, async programming and Azure
+>  Strong C++ dev with interests around .Net Core, TypeScript, async programming and cloud
 ----
 
 Education
 ---------
 2008 – 2010
-:   **MSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
+:  **MSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
 
 2004 – 2008
-:   **BSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
+:  **BSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
 
 Experience
 ----------
@@ -26,9 +26,9 @@ San Jose, CA, US:
 
 * Evolution and maintenance of Skype for Business SDK. Keywords: C++11 with Java/ObjC/C# projections, REST, HTTP, OAuth
 
-Stockholm, Sweden:
-
 * Rewrite of 'Lync for Android' into 'Skype for Business for Android'. Keywords: Java, Android SDK/NDK, JNI, MVVM
+
+Stockholm, Sweden:
 
 * Media stack for Skype for Android. Keywords: C++, Java, JNI, Stagefright, MediaCodec API
 
@@ -54,16 +54,17 @@ Technical Experience
 
 :  **React/ReactNative:** <Fill>
 
-:  **C#:** <Fill>
+:  **C#:** Couple of years of professional app development targeting .Net Framework. In free time I'm closely following
+  evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/ iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
 
-:  **Java:** <Fill>
+:  **Java:** 3+ years of Android apps development in both Java 7 and 8. Accustomed to both ant and gradle, ivy-friendly. Luckily no exposure to 'enterprise' Java world :)  
 
-:  **Typescript:** <Fill>
+:  **Typescript:**  My current project is all things Typescript, besides that I've also done contributions to several Visual Studio Code extensions that are mostly written in TS.
 
-:  Basic knowledge of **F#**, **Scala**
+:  Some knowledge of **F#** and **Scala**, good with **Python**
 
 Misc. 
-----------------------------------------
+-----
 
 * Human Languages:
 
