@@ -50,16 +50,13 @@ Participated in several outsourced projects
 Technical Experience
 --------------------
 
-:  **C++:** <Fill>
+:  **C++:** 10+ years of experience in my favorite language with almost no feet shot. I'm not shy of template meta-programming and friendly with Boost libraries. I like multi-threaded, parallel problems to solve even when it means a lot of time spent under debugger. I'm a big fan of 'newer' C++ standards ranging from 11 to 17 and beyond, including Concurrency, Parallelism, Modules and Coroutines TS-es.
 
-:  **React/ReactNative:** <Fill>
-
-:  **C#:** Couple of years of professional app development targeting .Net Framework. In free time I'm closely following
-  evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
+:  **C#:** Couple of years of professional app development targeting .Net Framework. In free time I'm closely following evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
 
 :  **Java:** 3+ years of Android apps development in both Java 7 and 8. Accustomed to both ant and gradle, ivy-friendly. Luckily no exposure to 'enterprise' Java world :)  
 
-:  **Typescript:**  My current project is all things Typescript, besides that I've also done contributions to several Visual Studio Code extensions that are mostly written in TS.
+:  **Typescript:**  My current project is all things Typescript, besides that I've also made few contributions to several Visual Studio Code extensions that were written in TS. I had some brief experience with **React** and **ReactNative** too - created a prototype wrapping internal JavaScript API into **Node** module, exposed it to UWP and Android as ReactNative module and codegen-ed native API on top of that. 
 
 :  Some knowledge of **F#** and **Scala**, good with **Python**
 
