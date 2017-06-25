@@ -55,7 +55,7 @@ Technical Experience
 :  **React/ReactNative:** <Fill>
 
 :  **C#:** Couple of years of professional app development targeting .Net Framework. In free time I'm closely following
-  evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/ iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
+  evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
 
 :  **Java:** 3+ years of Android apps development in both Java 7 and 8. Accustomed to both ant and gradle, ivy-friendly. Luckily no exposure to 'enterprise' Java world :)  
 
