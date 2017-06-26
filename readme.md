@@ -50,7 +50,7 @@ Participated in several outsourced projects
 Technical Experience
 --------------------
 
-:  **C++:** 10+ years of experience in my favorite language with almost no feet shot. I'm not shy of template meta-programming and friendly with Boost libraries. I like multi-threaded, parallel problems to solve even when it means a lot of time spent under debugger. I'm a big fan of 'newer' C++ standards ranging from 11 to 17 and beyond, including Concurrency, Parallelism, Modules and Coroutines TS-es.
+:  **C++:** 10+ years of experience in my favorite language with almost no feet shot. I'm not shy of template meta-programming and friendly with Boost libraries. I like solving multi-threaded, parallel problems even when it means a lot of time spent under debugger. I'm a big fan of 'newer' C++ standards ranging from 11 to 17 and beyond, including Concurrency, Parallelism, Modules and Coroutines TS-es.
 
 :  **C#:** Couple of years of professional app development targeting .Net Framework. In free time I'm closely following evolution of .Net Core, .Net Standard and ASP.Net Core. Huge fan of SignalR, BenchmarkDotNet and Xamarin Android/iOS (less of Xamarin Forms). Weird hobby: studying CoreFX sources.
 
