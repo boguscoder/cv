@@ -22,6 +22,8 @@ Enjoying a chance to be a part of well-known Software Leader in different locati
 
 San Jose, CA, US:
 
+* (re)Building Skype client on all platforms in one shot, building its foundation. Keywords: TypeScript, React, React-native, Java/Obj-C
+
 * Turning Microsoft Teams client into embeddable SDK. Keywords: TypeScript, Angular, Webpack, Grunt
 
 * Evolution and maintenance of Skype for Business SDK. Keywords: C++11 with Java/ObjC/C# projections, REST, HTTP, OAuth
