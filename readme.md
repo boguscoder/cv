@@ -20,7 +20,7 @@ Experience
 
 Enjoying a chance to be a part of well-known Software Leader in different locations and roles:
 
-San Jose, CA, US:
+Palo Alto, CA, US:
 
 * (re)Building Skype client on all platforms in one shot, building its foundation. Keywords: TypeScript, React, React-native, Java/Obj-C
 
