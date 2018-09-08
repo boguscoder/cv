@@ -16,7 +16,7 @@ Education
 
 Experience
 ----------
-**Senior SDE @ Microsoft** (Dec 2012 - Now)
+**Senior SDE @ Microsoft** (Dec 2012 - Sep 2018)
 
 Enjoying a chance to be a part of well-known Software Leader in different locations and roles:
 
