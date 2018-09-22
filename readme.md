@@ -17,6 +17,7 @@ Education
 Experience
 ----------
 **Software Engineer @ Facebook** (Sep 2018 - Present)
+
 Connecting the world
 
 **Senior SDE @ Microsoft** (Dec 2012 - Sep 2018)
