@@ -18,7 +18,7 @@ Experience
 ----------
 **Software Engineer @ Facebook** (Sep 2018 - Present)
 
-Connecting the world
+Spark (Camera) Dev Infra: helping AR/VR engineering productivity
 
 **Senior SDE @ Microsoft** (Dec 2012 - Sep 2018)
 
@@ -62,7 +62,7 @@ Technical Experience
 
 :  **Java:** 3+ years of Android apps development in both Java 7 and 8. Accustomed to both ant and gradle, ivy-friendly. Luckily no exposure to 'enterprise' Java world :)  
 
-:  **Typescript:**  My current project is all things Typescript, besides that I've also made few contributions to several Visual Studio Code extensions that were written in TS. I had some brief experience with **React** and **ReactNative** too - created a prototype wrapping internal JavaScript API into **Node** module, exposed it to UWP and Android as ReactNative module and codegen-ed native API on top of that. 
+:  **Typescript:**  Last 2 years at Skype client were all in Typescript with heavy **React** and **ReactNative** involvement. Also, made few contributions to several Visual Studio Code extensions that were written in TS; created a prototype wrapping internal JavaScript API into **Node** module, exposed it to UWP and Android as ReactNative module and codegen-ed native API on top of that. 
 
 :  Some knowledge of **F#** and **Scala**, good with **Python**
 
