@@ -1,6 +1,6 @@
 # Oleg Bogdanov
 
-<boguscoder@gmail.com> / +1 (650) 575 9739 / San Jose, CA
+<boguscoder@gmail.com> / +1 (650) 575 9739 / Redwood City, CA
 
 ----
 >  Strong C++ dev with interests around .Net Core, TypeScript, async programming and cloud
