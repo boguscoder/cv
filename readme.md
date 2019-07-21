@@ -6,14 +6,6 @@
 >  Strong C++ dev with interests around .Net Core, TypeScript, async programming and cloud
 ----
 
-Education
----------
-2008 – 2010
-:  **MSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
-
-2004 – 2008
-:  **BSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
-
 Experience
 ----------
 **Software Engineer @ Facebook** (Sep 2018 - Present)
@@ -66,7 +58,15 @@ Technical Experience
 
 :  **Typescript:**  Last 2 years at Skype client were all in Typescript with heavy **React** and **ReactNative** involvement. Also, made few contributions to several Visual Studio Code extensions that were written in TS; created a prototype wrapping internal JavaScript API into **Node** module, exposed it to UWP and Android as ReactNative module and codegen-ed native API on top of that. 
 
-:  Some knowledge of **F#** and **Scala**, good with **Python**
+:  Some knowledge of **Rust**, **F#** and **Scala**, also good with **Python**
+
+Education
+---------
+2008 – 2010
+:  **MSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
+
+2004 – 2008
+:  **BSc, Computer Science**; National Aviation University (Kyiv, Ukraine)
 
 Misc. 
 -----
