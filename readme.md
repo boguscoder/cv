@@ -18,6 +18,8 @@ Experience
 ----------
 **Software Engineer @ Facebook** (Sep 2018 - Present)
 
+Spark AR Engine: powering worlds famous AR filters. Keywords: C++ (14/17), ObjC (iOS/macOS), Java (Android)
+
 Spark (Camera) Dev Infra: helping AR/VR engineering productivity
 
 **Senior SDE @ Microsoft** (Dec 2012 - Sep 2018)
